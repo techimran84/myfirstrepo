@@ -1,3 +1,6 @@
+happy learning master
+this is 3rd day
+
 
 
 Hi this is my first repository
